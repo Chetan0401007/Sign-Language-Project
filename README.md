@@ -10,7 +10,7 @@
 [![OpenCV](https://img.shields.io/badge/OpenCV-4.8%2B-5C3EE8?logo=opencv&logoColor=white)](https://opencv.org/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
 
-Capture → Train → Predict in minutes, with **>99% accuracy** on clean datasets.
+Capture → Train → Predict in real time using MediaPipe and scikit-learn.
 
 </div>
 
