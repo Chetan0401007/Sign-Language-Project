@@ -36,7 +36,6 @@ Capture → Train → Predict in real time using MediaPipe and scikit-learn.
 10. [Troubleshooting](#️-troubleshooting)
 11. [Project Roadmap](#️-project-roadmap)
 12. [Contributing](#-contributing)
-13. [License](#-license)
 
 ---
 
@@ -406,13 +405,6 @@ Please ensure your code:
 - Follows the existing style (no type annotations required, but keep it readable).
 - Does not break `collect_data.py → train_model.py → predict.py` workflow.
 - Includes a brief description in the PR of what was changed and how to test it.
-
----
-
-## 📄 License
-
-This project is licensed under the **MIT License** — free to use, modify, and distribute.  
-See the [LICENSE](LICENSE) file for details.
 
 ---
 
