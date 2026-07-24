@@ -121,8 +121,8 @@ Sign Language Project 3.0/
 ### 1 — Clone the Repository
 
 ```bash
-git clone https://github.com/your-username/sign-language-recognition.git
-cd sign-language-recognition
+git clone https://github.com/Chetan0401007/Sign-Language-Project.git
+cd Sign-Language-Project
 ```
 
 ### 2 — Create a Virtual Environment *(recommended)*
