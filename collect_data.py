@@ -19,7 +19,7 @@ FEATURE_COLS  = [f"x{i}" for i in range(NUM_LANDMARKS)] + \
 mp_hands    = mp.solutions.hands
 mp_drawing  = mp.solutions.drawing_utils
 mp_styles   = mp.solutions.drawing_styles
-
+print("Heyyy")
 def extract_and_normalise(hand_landmarks):
     lm = hand_landmarks.landmark
 
